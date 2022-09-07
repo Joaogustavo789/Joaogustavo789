@@ -15,9 +15,13 @@
  <table width="320px">
    <tbody>
       <tr valign="top">
+         <td width="80px" align="center">
+          <span><strong>Git</strong></span><br>
+          <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+        </td>
         <td width="80px" align="center">
-          <span><strong>Javascript</strong></span><br>
-          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <span><strong>GitHub</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
         </td>
         <td width="80px" align="center">
           <span><strong>HTML</strong></span><br>
@@ -27,13 +31,13 @@
           <span><strong>CSS</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         </td>
+         <td width="80px" align="center">
+          <span><strong>Javascript</strong></span><br>
+          <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </td>
         <td width="80px" align="center">
           <span><strong>React</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-        </td>
-        <td width="80px" align="center">
-          <span><strong>GitHub</strong></span><br>
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
         </td>
       </tr>
    </tbody>   
@@ -43,7 +47,8 @@
   
 <div style="display: inline_block" > 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-7b08a4210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a> 
-  <a href = "mailto:edmcorrea.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="jgustavomendonca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
  <br />
