@@ -30,7 +30,7 @@
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         </td>
          <td width="80px" align="center">
-          <span><strong>Javascript</strong></span><br>
+          <span><strong>JavaScript</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </td>
         <td width="80px" align="center">
