@@ -37,6 +37,10 @@
           <span><strong>React</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         </td>
+        <td width="80px" align="center">
+          <span><strong>Redux</strong></span><br>
+          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+        </td>
       </tr>
    </tbody>   
  </table>  
