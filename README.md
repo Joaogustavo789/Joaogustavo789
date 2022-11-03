@@ -53,6 +53,10 @@
           <span><strong>Node.js</strong></span><br>
           <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         </td>
+        <td width="80px" align="center">
+          <span><strong>TypeScript</strong></span><br>
+          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        </td>
       </tr>
    </tbody>   
  </table>  
