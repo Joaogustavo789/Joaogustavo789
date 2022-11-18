@@ -1,7 +1,10 @@
-### Olá, meu nome é João Gustavo, sou desenvolvedor Front-end e futuramente de Back-end também!
-- 📚 Estudante de Desenvolvimento Web da Trybe
-- 🌱 Aprendendo Back-end  
-- 😄 Pronomes: ele / dele
+# Olá👋, me chamo João Gustavo
+## Eu sou uma pessoa desenvolvedora web full-stack!
+
+- Atualmente faço o curso de Desenvolvimento Web da Trybe 🧑🏽‍💻
+- Curto programar ouvindo uma boa música 🎧
+- Sou uma pessoa comunicativa 💬
+- Estou aberto a oportunidades 👨‍💼
 
  <div align="center">
   <a href="https://github.com/Joaogustavo789">
