@@ -4,7 +4,7 @@
 - Atualmente faço o curso de Desenvolvimento Web da Trybe 🧑🏽‍💻
 - Curto programar ouvindo uma boa música 🎧
 - Sou uma pessoa comunicativa 💬
-- Estou aberto a oportunidades 👨‍💼
+- Estou aberto a novas oportunidades 👨‍💼
 
  <div align="center">
   <a href="https://github.com/Joaogustavo789">
@@ -77,3 +77,4 @@
 </div>
 
  <br />
+ 
