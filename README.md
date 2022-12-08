@@ -45,6 +45,13 @@
           <span><strong>Redux</strong></span><br>
           <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
         </td>
+      </tr>
+   </tbody>   
+ </table>
+ 
+ <table width="320px">
+   <tbody>
+      <tr valign="top">
         <td width="80px" align="center">
           <span><strong>Docker</strong></span><br>
           <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
