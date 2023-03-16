@@ -17,7 +17,16 @@
  ## Ferramentas
  <div style="display: inline_block" >
    <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
+   <img src="" />
    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
  </div>
    
  ## Skills
