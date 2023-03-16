@@ -15,9 +15,11 @@
  <br />
  
  ## Ferramentas
+ <div style="display: inline_block" >
    <img src="" />
    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
- 
+ </div>
+   
  ## Skills
     
  <div style="display: inline_block" >
