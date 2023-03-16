@@ -16,6 +16,7 @@
  
  ## Ferramentas
    <img src="" />
+   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
  
  ## Skills
     
