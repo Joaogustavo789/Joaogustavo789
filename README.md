@@ -13,90 +13,23 @@
 </div>
    
  <br />
+ 
+ ## Ferramentas
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ 
+ ## Skills
     
- <table width="320px">
-   <tbody>
-      <tr valign="top">
-         <td width="80px" align="center">
-          <span><strong>Git</strong></span><br>
-          <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-        </td>
-        <td width="80px" align="center">
-          <span><strong>GitHub</strong></span><br>
-          <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
-        </td>
-        <td width="80px" align="center">
-          <span><strong>HTML</strong></span><br>
-          <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        </td>
-        <td width="80px" align="center">
-          <span><strong>CSS</strong></span><br>
-          <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        </td>
-         <td width="80px" align="center">
-          <span><strong>JavaScript</strong></span><br>
-          <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        </td>
-        <td width="80px" align="center">
-          <span><strong>React</strong></span><br>
-          <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-        </td>
-        <td width="80px" align="center">
-          <span><strong>Redux</strong></span><br>
-          <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-        </td>
-      </tr>
-   </tbody>   
- </table>
- 
-<!--  <table>
-  <tbody>
-   <td>
-    <span><strong>Back-End</strong></span><br>
-   </td>
-  </tbody>
- </table> -->
- 
- <table width="320px">
-   <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><strong>Docker</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>MySQL</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>Node.js</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        </td>
-       <td width="80px" align="center">
-          <span><strong>Express.js</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-        </td>
-       <td width="80px" align="center">
-        <span><strong>Sequelize</strong></span><br>
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-      </td>
-        <td width="80px" align="center">
-          <span><strong>TypeScript</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-        </td>
-       <td width="80px" align="center">
-          <span><strong>MongoDB</strong></span><br>
-          <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-        </td>
-       <td width="80px" align="center">
-          <span><strong>Mongoose</strong></span><br>
-          <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
-        </td>
-      </tr>
-   </tbody>   
- </table>  
+ <div style="display: inline_block" >
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <div/>
+  
+  <div style="display: inline_block" >
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <div/>
      
- <br />  
+ <br />
+  
+ ## Minhas redes
   
 <div style="display: inline_block" > 
   <a href = "mailto:jgustavomendonca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
