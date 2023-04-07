@@ -46,7 +46,7 @@
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/mongoose-%23F05033.svg?style=for-the-badge&logo=mongoose&logoColor=407399&color=1c1c1c" />
+   <img src="https://user-images.githubusercontent.com/99046967/230514903-8cc64fa8-684f-499b-ba67-f9f401eb22ea.png" width=123 />
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  <div/>
      
