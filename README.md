@@ -41,7 +41,7 @@
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
    <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
-   <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
+   <img src="https://user-images.githubusercontent.com/102390423/227820983-14a61ffc-53d0-42f9-a97a-636e3f04611c.png" alt="sinon badge" width="111">
    <img src="https://img.shields.io/badge/Sequelize.js-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
