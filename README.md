@@ -1,7 +1,7 @@
 # Olá👋, me chamo João Gustavo
 ## Eu sou uma pessoa desenvolvedora web full-stack!
 
-- Atualmente faço o curso de Desenvolvimento Web da Trybe 🧑🏽‍💻
+- Formado pela Trybe 🧑🏽‍💻
 - Curto programar ouvindo uma boa música 🎧
 - Sou uma pessoa comunicativa 💬
 - Estou aberto a novas oportunidades 👨‍💼
