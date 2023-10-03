@@ -1,10 +1,15 @@
-# Olá👋, me chamo João Gustavo
-## Eu sou uma pessoa desenvolvedora web full-stack!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=headers&fontSize=30"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+me+chamo+João+Gustavo;Sou+um+Desenvolvedor+Web+Full+Stack+🧑🏽‍💻)](https://git.io/typing-svg)
+
+<br>
 
 - Formado pela Trybe 🧑🏽‍💻
 - Curto programar ouvindo uma boa música 🎧
 - Sou uma pessoa comunicativa 💬
 - Estou aberto a novas oportunidades 👨‍💼
+
+<br>
 
  <div align="center">
   <a href="https://github.com/Joaogustavo789">
