@@ -13,10 +13,10 @@
 
  <div align="center">
   <a href="https://github.com/Joaogustavo789">
-  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaogustavo789&show_icons=true&theme=tokyonight"/>
-  <img witdh="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogustavo789&layout=compact&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Joaogustavo789&show_icons=true&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogustavo789&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-   
+
  <br />
  
  ## Ferramentas
